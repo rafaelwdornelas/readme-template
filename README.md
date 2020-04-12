@@ -7,20 +7,19 @@
 
 One to two paragraph statement about your product and what it does.
 
-![](header.png)
+![](https://github.com/rafaelwdornelas/GlobalScrapingExploit/raw/master/Screenshots/Screenshot_2020-04-12%20%23Global%20Scraping%20Exploit.png)
 
+## Download
+
+```sh
+git clone https://github.com/rafaelwdornelas/GlobalScrapingExploit.git
+
+cd GlobalScrapingExploit
+```
 ## Installation
 
-OS X & Linux:
-
 ```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
+npm i
 ```
 
 ## Usage example
